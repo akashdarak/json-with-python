@@ -1,0 +1,9 @@
+The "solution.py" contains the code that produces report on standard output and a file.
+
+Input files necessary for code to run: "servers.txt"
+Output files generated: "file.txt"
+
+The code uses Python version 2.7 and can be run using the command:
+python solution.py
+
+
