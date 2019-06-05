@@ -1,5 +1,5 @@
-The objective of this repository is to produce a tool that will query the ‘status’ page on 1000 servers and produce a report based on data within the status page.  
-Each server has a ‘status’ endpoint that returns json data.  
+The objective of this repository is to produce a tool that will query the ‘status’ page on 1000 servers. 
+Each server has a ‘status’ endpoint that returns json data and produce report based on data.  
 
 The "solution.py" contains the code that produces report on standard output and a file.
 The "responses.txt" contains standard json response after parsing server file.
