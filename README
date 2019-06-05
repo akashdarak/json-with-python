@@ -1,4 +1,5 @@
 The "solution.py" contains the code that produces report on standard output and a file.
+The "responses.txt" contains standard json response after parsing server file.
 
 Input files necessary for code to run: "servers.txt"
 Output files generated: "file.txt"
